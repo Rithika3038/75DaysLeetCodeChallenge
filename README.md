@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |

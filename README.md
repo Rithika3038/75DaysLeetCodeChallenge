@@ -27,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->

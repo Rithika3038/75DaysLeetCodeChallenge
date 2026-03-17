@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0682-baseball-game](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0682-baseball-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,10 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3174-clear-digits](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/3174-clear-digits) |
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0682-baseball-game) |
 | [3174-clear-digits](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/3174-clear-digits) |
 <!---LeetCode Topics End-->

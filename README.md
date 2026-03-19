@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3174-clear-digits](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/3174-clear-digits) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0125-valid-palindrome](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |

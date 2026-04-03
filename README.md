@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3174-clear-digits](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/3174-clear-digits) |
 ## Simulation
@@ -148,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->

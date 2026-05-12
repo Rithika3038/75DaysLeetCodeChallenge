@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0658-find-k-closest-elements](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0658-find-k-closest-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 ## Linked List
 |  |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0658-find-k-closest-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -165,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0658-find-k-closest-elements](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0658-find-k-closest-elements) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -194,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0278-first-bad-version) |
+| [0658-find-k-closest-elements](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 ## Greedy
 |  |

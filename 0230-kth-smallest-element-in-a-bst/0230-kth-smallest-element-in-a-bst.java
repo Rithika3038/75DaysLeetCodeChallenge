@@ -1,18 +1,27 @@
-class Solution{
+class Solution {
+
     int count = 0;
-    int ans = 1;
-    public int kthSmallest(TreeNode root, int k){
-        if(root.left != null){
-            kthSmallest(root.left, k);
+    int result = 0;
+
+    public int kthSmallest(TreeNode root, int k) {
+        inorder(root, k);
+        return result;
+    }
+
+    private void inorder(TreeNode node, int k) {
+        if (node == null) {
+            return;
         }
+
+        inorder(node.left, k);
+
         count++;
-        if(k == count){
-            ans = root.val;
-            return ans;
+
+        if (count == k) {
+            result = node.val;
+            return;
         }
-        if(root.right != null){
-            kthSmallest(root.right, k);
-        }
-        return ans;
+
+        inorder(node.right, k);
     }
 }

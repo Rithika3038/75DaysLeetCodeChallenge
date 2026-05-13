@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
+| [1710-maximum-units-on-a-truck](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/1710-maximum-units-on-a-truck) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0658-find-k-closest-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
+| [1710-maximum-units-on-a-truck](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/1710-maximum-units-on-a-truck) |
 ## String
 |  |
 | ------- |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0455-assign-cookies) |
+| [1710-maximum-units-on-a-truck](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/1710-maximum-units-on-a-truck) |
 ## Dynamic Programming
 |  |
 | ------- |

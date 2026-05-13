@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0658-find-k-closest-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
+| [0435-non-overlapping-intervals](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0455-assign-cookies) |
 | [1710-maximum-units-on-a-truck](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/1710-maximum-units-on-a-truck) |
 ## Dynamic Programming
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0198-house-robber) |
+| [0435-non-overlapping-intervals](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0435-non-overlapping-intervals) |
 ## Design
 |  |
 | ------- |

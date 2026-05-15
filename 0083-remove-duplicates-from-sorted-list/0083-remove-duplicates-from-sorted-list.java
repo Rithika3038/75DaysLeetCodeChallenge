@@ -1,22 +1,14 @@
 class Solution {
     public ListNode deleteDuplicates(ListNode head) {
 
-        if (head == null) {
-            return null;
+        if (head == null || head.next == null) {
+            return head;
         }
 
-        ListNode current = head;
-        ListNode nextNode = head.next;
+        head.next = deleteDuplicates(head.next);
 
-        while (nextNode != null) {
-
-            if (current.val == nextNode.val) {
-                current.next = nextNode.next;
-            } else {
-                current = nextNode;
-            }
-
-            nextNode = current.next;
+        if (head.val == head.next.val) {
+            return head.next;
         }
 
         return head;

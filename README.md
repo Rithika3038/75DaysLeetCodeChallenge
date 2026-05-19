@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3174-clear-digits](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/3174-clear-digits) |
 ## Simulation
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0232-implement-queue-using-stacks](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
+| [0901-online-stock-span](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0901-online-stock-span) |
 ## Matrix
 |  |
 | ------- |
@@ -373,4 +376,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0062-unique-paths) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->

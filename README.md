@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0455-assign-cookies) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0658-find-k-closest-elements) |
 ## Bucket Sort
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0232-implement-queue-using-stacks](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0295-find-median-from-data-stream) |
 | [0901-online-stock-span](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
@@ -383,5 +387,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0295-find-median-from-data-stream) |
 | [0901-online-stock-span](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->

@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
+| [0997-find-the-town-judge](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
 | [1710-maximum-units-on-a-truck](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/1710-maximum-units-on-a-truck) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0904-fruit-into-baskets](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
+| [0997-find-the-town-judge](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sorting
 |  |
@@ -424,4 +426,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/Rithika3038/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->

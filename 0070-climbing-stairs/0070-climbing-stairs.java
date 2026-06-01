@@ -1,26 +1,16 @@
 class Solution {
     public int climbStairs(int n) {
-
-        int[] dp = new int[n];
-        Arrays.fill(dp,-1);
-        int ans = findnumberOfways(0,n,dp);
-        return ans;
+        Map<Integer, Integer> memo = new HashMap<>();
+        return climbStairs(n, memo);
     }
-    public int findnumberOfways(int i, int n, int[] dp){
-        if(i==n){
+    
+    private int climbStairs(int n, Map<Integer, Integer> memo) {
+        if (n == 0 || n == 1) {
             return 1;
         }
-        if(i>n){
-            return 0;
+        if (!memo.containsKey(n)) {
+            memo.put(n, climbStairs(n-1, memo) + climbStairs(n-2, memo));
         }
-
-        if(dp[i] != -1){
-            return dp[i];
-        }
-
-        int n1 = findnumberOfways(i+1,n,dp);
-        int n2 = findnumberOfways(i+2,n,dp);
-        dp[i] = n1 + n2;
-        return dp[i];
+        return memo.get(n);
     }
 }

@@ -1,23 +1,13 @@
 class Solution {
     public int rob(int[] nums) {
-        
-        int[] dp = new int[nums.length];
-        Arrays.fill(dp,-1);
-
-        int ans = findMax(0,nums,dp);
-        return ans;
-    }
-    int findMax(int i, int[] nums, int[] dp){
-        if(i>=nums.length){
-            return 0;
+        int rob = 0;
+        int norob = 0;
+        for (int i = 0; i < nums.length; i ++) {
+            int newRob = norob + nums[i];
+            int newNoRob = Math.max(norob, rob);
+            rob = newRob;
+            norob = newNoRob;
         }
-        if(dp[i] != -1){
-            return dp[i];
-        }
-        
-        int include = nums[i]+findMax(i+2,nums,dp);
-        int exclude = findMax(i+1,nums,dp);
-        dp[i] = Math.max(include,exclude);
-        return dp[i];
+        return Math.max(rob, norob);
     }
 }
